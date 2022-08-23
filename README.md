@@ -1,2 +1,2 @@
-# Nodes_Explorer
+# Notes_Explorer
   note management application
