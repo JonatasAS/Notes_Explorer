@@ -1,7 +1,7 @@
 {
   "name": "notes_explorer",
   "version": "1.0.0",
-  "description": "Aplicação de anotações desenvoldida no programa explorer.",
+  "description": "Aplicação de anotações desenvolvida no programa explorer.",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/server.js",
